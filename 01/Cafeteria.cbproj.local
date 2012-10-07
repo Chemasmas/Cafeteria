@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012/10/07 09:40:46.678.cpp,C:\Users\DannyCaT\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\DannyCaT\Documents\RAD Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2012/10/07 09:40:46.692.h,C:\Users\DannyCaT\Documents\RAD Studio\Projects\Unit1.h=C:\Users\DannyCaT\Documents\RAD Studio\Projects\Main.h</Transaction>
+    <Transaction>2012/10/07 09:40:46.692.dfm,C:\Users\DannyCaT\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\DannyCaT\Documents\RAD Studio\Projects\Main.dfm</Transaction>
+    <Transaction>2012/10/07 09:41:39.639.cpp,C:\Users\DannyCaT\Documents\RAD Studio\Projects\Main.cpp=D:\cafeteria\01\Main.cpp</Transaction>
+    <Transaction>2012/10/07 09:41:39.639.h,C:\Users\DannyCaT\Documents\RAD Studio\Projects\Main.h=D:\cafeteria\01\Main.h</Transaction>
+    <Transaction>2012/10/07 09:41:39.639.dfm,C:\Users\DannyCaT\Documents\RAD Studio\Projects\Main.dfm=D:\cafeteria\01\Main.dfm</Transaction>
+    <Transaction>2012/10/07 09:41:52.536.cbproj,C:\Users\DannyCaT\Documents\RAD Studio\Projects\Project1.cbproj=D:\cafeteria\01\Cafeteria.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
